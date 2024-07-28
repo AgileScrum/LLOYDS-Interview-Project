@@ -1,0 +1,32 @@
+{
+    "browsers": [
+        "chrome"
+    ],
+    "src": "testScript/*.js",
+    
+    "report": "node report-generator.js",
+    "args": {
+        "reportFolder": "my-custom-folder",
+        "appName": "my-custom-folder"
+    },
+    "reporter": [
+        {
+            "name": "spec"
+        },
+        {
+            "name": "xunit",
+            "output": "reports/report.xml"
+        },
+        {
+            "name": "html",
+            "output": "testResults"
+        }
+    ],
+    "quarantineMode": true,
+    "skipJsErrors": true,
+    "filter": {
+        "testMeta": {
+            "e2e": "regression"
+        }
+    }
+}
