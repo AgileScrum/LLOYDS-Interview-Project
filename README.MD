@@ -14,7 +14,6 @@ To get started with this project, clone the repository and install the dependenc
 
 ```sh
 git clone https://github.com/AgileScrum/LLOYDS-Interview-Project.git
-cd LLOYDS-Interview-Project
 npm install
 npm install testcafe@3.6.0 --save-dev
 ```
