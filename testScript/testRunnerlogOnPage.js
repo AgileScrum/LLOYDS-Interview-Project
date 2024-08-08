@@ -1,13 +1,13 @@
 import { test, Selector } from "testcafe";
-import homePage from "../pages/homePage.js";
 import logOnPage from "../pages/logOnPage.js";
+import { baseUrl } from "../helper/configuration.js";
 
 
-fixture`Log On Page Tests`.page`https://www.lloydsbank.com`;
-
+fixture`Log On Page Tests`
+.page(baseUrl)
 test
     .meta({ e2e: "regression " })
-    ("Test010 , Validate user can not log in without providing user id and password",
+    ("TC_LP_001 , Validate user can not log in without providing user id and password",
         async (t) => {
             await logOnPage.loginWithoutAnyCredentials()
         
@@ -16,7 +16,7 @@ test
    
 test
     .meta({ e2e: "regression " })
-    ("Test011 , Validate user can not log in without providing password",
+    ("TC_LP_002 , Validate user can not log in without providing password",
         async (t) => {
             await logOnPage.loginWithoutPassword();
         
@@ -25,16 +25,16 @@ test
    
 test
     .meta({ e2e: "regression " })
-    ("Test012 , Validate user can not log in without providing password",
+    ("TC_LP_003, Validate user can not log in without providing user id",
         async (t) => {
             await logOnPage.loginWithoutUserId();
         
         }
    ).skipJsErrors()
 
-   test.only
+test
     .meta({ e2e: "regression " })
-    ("Test013 , Validate user can see four options when clicking on forgotten password link",
+    ("TC_LP_004 , Validate user can see four options when clicking on forgotten password link",
         async (t) => {
             await logOnPage.VerifyingLogOnHelpOptions();
         

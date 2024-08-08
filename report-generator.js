@@ -1,10 +1,12 @@
 const report = require('multiple-cucumber-html-reporter');
 const path = require('path');
 const projectName = path.basename(__dirname);
-const projectVersion = process.env.npm_package_version;
-const reportGenerationTime = new Date().toISOString();
+const projectVersion = "2.0"
+const reporter = "Ajit Thakkar"
+const reportGenerationTime = new Date().toLocaleString();
+
 report.generate({
-  reportName: 'TestCafé Report',
+  reportName: 'LLOYDS Testing Report',
   jsonDir: 'cucumber-json-reports',
   reportPath: 'cucumber-json-reports/html',
   openReportInBrowser: true,
@@ -12,12 +14,18 @@ report.generate({
   displayDuration: true,
   displayReportTime: true,
   durationInMS: true,
+  
   customData: {
-    title: 'Run info',
+    title: 'LLOYDS - Testing Info',
     data: [
       { label: 'Project', value: `${projectName}` },
       { label: 'Release', value: `${projectVersion}` },
       { label: 'Report Generation Time', value: `${reportGenerationTime}` },
+      { label: 'Reporter', value: `${reporter}` },
+      { label: 'Test Environment', value: 'Prod' },
+      { label: 'Browser', value: 'Chrome 127.0' },
+      { label: 'Operating System', value: 'Windows 11 Home' },
     ],
   },
+ 
 });

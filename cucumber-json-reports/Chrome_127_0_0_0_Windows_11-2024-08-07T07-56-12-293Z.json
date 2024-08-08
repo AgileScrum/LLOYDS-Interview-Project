@@ -1,0 +1,1624 @@
+[
+  {
+    "description": "First Time Buyer Calculator",
+    "elements": [
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 50000 - I'm just researching",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 50000 - I'm just researching",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 50000 - I'm just researching",
+            "result": {
+              "duration": 47833,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 50000 - I'm just researching</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 100000 - I'm viewing properties",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 100000 - I'm viewing properties",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 100000 - I'm viewing properties",
+            "result": {
+              "duration": 34091,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 100000 - I'm viewing properties</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer",
+            "result": {
+              "duration": 34267,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 45000 - I've had an offer accepted",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 45000 - I've had an offer accepted",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 45000 - I've had an offer accepted",
+            "result": {
+              "duration": 34338,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 45000 - I've had an offer accepted</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties",
+            "result": {
+              "duration": 34256,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 70000 - I'm just researching",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 70000 - I'm just researching",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 70000 - I'm just researching",
+            "result": {
+              "duration": 34129,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 70000 - I'm just researching</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer",
+            "result": {
+              "duration": 36298,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFirst Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 25000 - I've had an offer accepted",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 25000 - I've had an offer accepted",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1:0"
+            },
+            "name": "First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 25000 - I've had an offer accepted",
+            "result": {
+              "duration": 37736,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 25000 - I've had an offer accepted</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "First Time Buyer Calculator",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "127.0.0.0"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "11"
+      },
+      "reportTime": "2024-08-07T07:56:12.294Z",
+      "startTime": "2024-08-07T07:41:41.153Z"
+    },
+    "name": "First Time Buyer Calculator",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@first"
+      },
+      {
+        "line": 0,
+        "name": "@time"
+      },
+      {
+        "line": 0,
+        "name": "@buyer"
+      },
+      {
+        "line": 0,
+        "name": "@calculator"
+      },
+      {
+        "line": 0,
+        "name": "@tc_ftm_001"
+      },
+      {
+        "line": 0,
+        "name": "@tc_ftm_008"
+      },
+      {
+        "line": 0,
+        "name": "@want"
+      },
+      {
+        "line": 0,
+        "name": "@buy"
+      },
+      {
+        "line": 0,
+        "name": "@home"
+      },
+      {
+        "line": 0,
+        "name": "@25000"
+      },
+      {
+        "line": 0,
+        "name": "@i've"
+      },
+      {
+        "line": 0,
+        "name": "@had"
+      },
+      {
+        "line": 0,
+        "name": "@offer"
+      },
+      {
+        "line": 0,
+        "name": "@accepted"
+      },
+      {
+        "line": 0,
+        "name": "@yes"
+      },
+      {
+        "line": 0,
+        "name": "@30000"
+      },
+      {
+        "line": 0,
+        "name": "@i'm"
+      },
+      {
+        "line": 0,
+        "name": "@ready"
+      },
+      {
+        "line": 0,
+        "name": "@make"
+      },
+      {
+        "line": 0,
+        "name": "@70000"
+      },
+      {
+        "line": 0,
+        "name": "@just"
+      },
+      {
+        "line": 0,
+        "name": "@researching"
+      },
+      {
+        "line": 0,
+        "name": "@40000"
+      },
+      {
+        "line": 0,
+        "name": "@viewing"
+      },
+      {
+        "line": 0,
+        "name": "@properties"
+      },
+      {
+        "line": 0,
+        "name": "@45000"
+      },
+      {
+        "line": 0,
+        "name": "@60000"
+      },
+      {
+        "line": 0,
+        "name": "@100000"
+      },
+      {
+        "line": 0,
+        "name": "@50000"
+      }
+    ],
+    "uri": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerFirstTimeMortgageCal.js:1"
+  },
+  {
+    "description": "Home Mover Mortgage Calculator",
+    "elements": [
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 50000 - I'm just researching",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 50000 - I'm just researching",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 50000 - I'm just researching",
+            "result": {
+              "duration": 33414,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 50000 - I'm just researching</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 100000 - I'm viewing properties",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 100000 - I'm viewing properties",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 100000 - I'm viewing properties",
+            "result": {
+              "duration": 31902,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 100000 - I'm viewing properties</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer",
+            "result": {
+              "duration": 36508,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 45000 - I've had an offer accepted",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 45000 - I've had an offer accepted",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 45000 - I've had an offer accepted",
+            "result": {
+              "duration": 40726,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 45000 - I've had an offer accepted</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties",
+            "result": {
+              "duration": 40778,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 70000 - I'm just researching",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 70000 - I'm just researching",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 70000 - I'm just researching",
+            "result": {
+              "duration": 38626,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 70000 - I'm just researching</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer",
+            "result": {
+              "duration": 36519,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioHome Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 25000 - I've had an offer accepted",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 25000 - I've had an offer accepted",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1:0"
+            },
+            "name": "Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 25000 - I've had an offer accepted",
+            "result": {
+              "duration": 42076,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 25000 - I've had an offer accepted</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Home Mover Mortgage Calculator",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "127.0.0.0"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "11"
+      },
+      "reportTime": "2024-08-07T07:56:12.294Z",
+      "startTime": "2024-08-07T07:41:41.153Z"
+    },
+    "name": "Home Mover Mortgage Calculator",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@home"
+      },
+      {
+        "line": 0,
+        "name": "@mover"
+      },
+      {
+        "line": 0,
+        "name": "@mortgage"
+      },
+      {
+        "line": 0,
+        "name": "@calculator"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hmm_001"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hmm_008"
+      },
+      {
+        "line": 0,
+        "name": "@want"
+      },
+      {
+        "line": 0,
+        "name": "@buy"
+      },
+      {
+        "line": 0,
+        "name": "@25000"
+      },
+      {
+        "line": 0,
+        "name": "@i've"
+      },
+      {
+        "line": 0,
+        "name": "@had"
+      },
+      {
+        "line": 0,
+        "name": "@offer"
+      },
+      {
+        "line": 0,
+        "name": "@accepted"
+      },
+      {
+        "line": 0,
+        "name": "@yes"
+      },
+      {
+        "line": 0,
+        "name": "@30000"
+      },
+      {
+        "line": 0,
+        "name": "@i'm"
+      },
+      {
+        "line": 0,
+        "name": "@ready"
+      },
+      {
+        "line": 0,
+        "name": "@make"
+      },
+      {
+        "line": 0,
+        "name": "@70000"
+      },
+      {
+        "line": 0,
+        "name": "@just"
+      },
+      {
+        "line": 0,
+        "name": "@researching"
+      },
+      {
+        "line": 0,
+        "name": "@40000"
+      },
+      {
+        "line": 0,
+        "name": "@viewing"
+      },
+      {
+        "line": 0,
+        "name": "@properties"
+      },
+      {
+        "line": 0,
+        "name": "@45000"
+      },
+      {
+        "line": 0,
+        "name": "@60000"
+      },
+      {
+        "line": 0,
+        "name": "@100000"
+      },
+      {
+        "line": 0,
+        "name": "@50000"
+      }
+    ],
+    "uri": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomeMoverMortgageCal.js:1"
+  },
+  {
+    "description": "Home Page Tests",
+    "elements": [
+      {
+        "id": "ScenarioTC_HP_001 , Verifying the homepage title",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_001 , Verifying the homepage title",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_001 , Verifying the homepage title",
+            "result": {
+              "duration": 4685,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_001 , Verifying the homepage title</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_002, Verifying all the links from home page are working and not broken, also Printing and counting the links",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_002, Verifying all the links from home page are working and not broken, also Printing and counting the links",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_002, Verifying all the links from home page are working and not broken, also Printing and counting the links",
+            "result": {
+              "duration": 100712,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_002, Verifying all the links from home page are working and not broken, also Printing and counting the links</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_003, Verifying all the headings from main menu",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_003, Verifying all the headings from main menu",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_003, Verifying all the headings from main menu",
+            "result": {
+              "duration": 6724,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_003, Verifying all the headings from main menu</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_004, Verifying all the sub headings from main menu",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_004, Verifying all the sub headings from main menu",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_004, Verifying all the sub headings from main menu",
+            "result": {
+              "duration": 6099,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_004, Verifying all the sub headings from main menu</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_005, Verifying all the headers are visible",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_005, Verifying all the headers are visible",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_005, Verifying all the headers are visible",
+            "result": {
+              "duration": 3662,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_005, Verifying all the headers are visible</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_006, Verifying all the progressive navigations texts are visible",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_006, Verifying all the progressive navigations texts are visible",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_006, Verifying all the progressive navigations texts are visible",
+            "result": {
+              "duration": 3641,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_006, Verifying all the progressive navigations texts are visible</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_007, Verifying all the quick links working and not broken also printing and counting",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_007, Verifying all the quick links working and not broken also printing and counting",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_007, Verifying all the quick links working and not broken also printing and counting",
+            "result": {
+              "duration": 13039,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_007, Verifying all the quick links working and not broken also printing and counting</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_008, Verifying Our Products heading and all the products name",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_008, Verifying Our Products heading and all the products name",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_008, Verifying Our Products heading and all the products name",
+            "result": {
+              "duration": 4569,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_008, Verifying Our Products heading and all the products name</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_HP_009, Verifying main home page logo is exists and visible",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_HP_009, Verifying main home page logo is exists and visible",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1:0"
+            },
+            "name": "TC_HP_009, Verifying main home page logo is exists and visible",
+            "result": {
+              "duration": 3752,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_HP_009, Verifying main home page logo is exists and visible</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Home Page Tests",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "127.0.0.0"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "11"
+      },
+      "reportTime": "2024-08-07T07:56:12.294Z",
+      "startTime": "2024-08-07T07:41:41.153Z"
+    },
+    "name": "Home Page Tests",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@tc_hp_009"
+      },
+      {
+        "line": 0,
+        "name": "@verifying"
+      },
+      {
+        "line": 0,
+        "name": "@main"
+      },
+      {
+        "line": 0,
+        "name": "@home"
+      },
+      {
+        "line": 0,
+        "name": "@page"
+      },
+      {
+        "line": 0,
+        "name": "@logo"
+      },
+      {
+        "line": 0,
+        "name": "@exists"
+      },
+      {
+        "line": 0,
+        "name": "@visible"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_008"
+      },
+      {
+        "line": 0,
+        "name": "@our"
+      },
+      {
+        "line": 0,
+        "name": "@products"
+      },
+      {
+        "line": 0,
+        "name": "@heading"
+      },
+      {
+        "line": 0,
+        "name": "@all"
+      },
+      {
+        "line": 0,
+        "name": "@name"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_007"
+      },
+      {
+        "line": 0,
+        "name": "@quick"
+      },
+      {
+        "line": 0,
+        "name": "@links"
+      },
+      {
+        "line": 0,
+        "name": "@working"
+      },
+      {
+        "line": 0,
+        "name": "@broken"
+      },
+      {
+        "line": 0,
+        "name": "@also"
+      },
+      {
+        "line": 0,
+        "name": "@printing"
+      },
+      {
+        "line": 0,
+        "name": "@counting"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_006"
+      },
+      {
+        "line": 0,
+        "name": "@progressive"
+      },
+      {
+        "line": 0,
+        "name": "@navigations"
+      },
+      {
+        "line": 0,
+        "name": "@texts"
+      },
+      {
+        "line": 0,
+        "name": "@are"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_005"
+      },
+      {
+        "line": 0,
+        "name": "@headers"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_004"
+      },
+      {
+        "line": 0,
+        "name": "@sub"
+      },
+      {
+        "line": 0,
+        "name": "@headings"
+      },
+      {
+        "line": 0,
+        "name": "@from"
+      },
+      {
+        "line": 0,
+        "name": "@menu"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_003"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_002"
+      },
+      {
+        "line": 0,
+        "name": "@tc_hp_001"
+      },
+      {
+        "line": 0,
+        "name": "@homepage"
+      },
+      {
+        "line": 0,
+        "name": "@title"
+      },
+      {
+        "line": 0,
+        "name": "@tests"
+      }
+    ],
+    "uri": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerHomePage.js:1"
+  },
+  {
+    "description": "Log On Page Tests",
+    "elements": [
+      {
+        "id": "ScenarioTC_LP_001 , Validate user can not log in without providing user id and password",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_LP_001 , Validate user can not log in without providing user id and password",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerlogOnPage.js:1:0"
+            },
+            "name": "TC_LP_001 , Validate user can not log in without providing user id and password",
+            "result": {
+              "duration": 17240,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_LP_001 , Validate user can not log in without providing user id and password</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_LP_002 , Validate user can not log in without providing password",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_LP_002 , Validate user can not log in without providing password",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerlogOnPage.js:1:0"
+            },
+            "name": "TC_LP_002 , Validate user can not log in without providing password",
+            "result": {
+              "duration": 19323,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_LP_002 , Validate user can not log in without providing password</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_LP_003, Validate user can not log in without providing user id",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_LP_003, Validate user can not log in without providing user id",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerlogOnPage.js:1:0"
+            },
+            "name": "TC_LP_003, Validate user can not log in without providing user id",
+            "result": {
+              "duration": 17499,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_LP_003, Validate user can not log in without providing user id</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_LP_004 , Validate user can see four options when clicking on forgotten password link",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_LP_004 , Validate user can see four options when clicking on forgotten password link",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerlogOnPage.js:1:0"
+            },
+            "name": "TC_LP_004 , Validate user can see four options when clicking on forgotten password link",
+            "result": {
+              "duration": 19540,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_LP_004 , Validate user can see four options when clicking on forgotten password link</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Log On Page Tests",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "127.0.0.0"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "11"
+      },
+      "reportTime": "2024-08-07T07:56:12.294Z",
+      "startTime": "2024-08-07T07:41:41.153Z"
+    },
+    "name": "Log On Page Tests",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@tc_lp_004"
+      },
+      {
+        "line": 0,
+        "name": "@validate"
+      },
+      {
+        "line": 0,
+        "name": "@user"
+      },
+      {
+        "line": 0,
+        "name": "@see"
+      },
+      {
+        "line": 0,
+        "name": "@four"
+      },
+      {
+        "line": 0,
+        "name": "@options"
+      },
+      {
+        "line": 0,
+        "name": "@clicking"
+      },
+      {
+        "line": 0,
+        "name": "@forgotten"
+      },
+      {
+        "line": 0,
+        "name": "@password"
+      },
+      {
+        "line": 0,
+        "name": "@link"
+      },
+      {
+        "line": 0,
+        "name": "@tc_lp_003"
+      },
+      {
+        "line": 0,
+        "name": "@log"
+      },
+      {
+        "line": 0,
+        "name": "@without"
+      },
+      {
+        "line": 0,
+        "name": "@providing"
+      },
+      {
+        "line": 0,
+        "name": "@tc_lp_002"
+      },
+      {
+        "line": 0,
+        "name": "@tc_lp_001"
+      },
+      {
+        "line": 0,
+        "name": "@page"
+      },
+      {
+        "line": 0,
+        "name": "@tests"
+      }
+    ],
+    "uri": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerlogOnPage.js:1"
+  },
+  {
+    "description": "Registrer Page Tests",
+    "elements": [
+      {
+        "id": "ScenarioTC_RP_001 , Validate the valid account types require for the registration",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_RP_001 , Validate the valid account types require for the registration",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerRegisterPage.js:1:0"
+            },
+            "name": "TC_RP_001 , Validate the valid account types require for the registration",
+            "result": {
+              "duration": 10556,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_RP_001 , Validate the valid account types require for the registration</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTC_RP_002 , Validate user can not register with an incorrect account",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "TC_RP_002 , Validate user can not register with an incorrect account",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerRegisterPage.js:1:0"
+            },
+            "name": "TC_RP_002 , Validate user can not register with an incorrect account",
+            "result": {
+              "duration": 22775,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">TC_RP_002 , Validate user can not register with an incorrect account</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Registrer Page Tests",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "127.0.0.0"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "11"
+      },
+      "reportTime": "2024-08-07T07:56:12.294Z",
+      "startTime": "2024-08-07T07:41:41.153Z"
+    },
+    "name": "Registrer Page Tests",
+    "runInfo": {
+      "endTime": "2024-08-07T07:56:12.293Z",
+      "passed": 31,
+      "startTime": "2024-08-07T07:41:41.153Z",
+      "testCount": 31,
+      "userAgents": [
+        "Chrome 127.0.0.0 / Windows 11"
+      ],
+      "warnings": [
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 50000 - I'm just researching\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 100000 - I'm viewing properties\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 45000 - I've had an offer accepted\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 70000 - I'm just researching\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"First Time Buyer Calculator TC_FTM_001 to TC_FTM_008 - I want to buy a home - No - 25000 - I've had an offer accepted\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 50000 - I'm just researching\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 100000 - I'm viewing properties\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 60000 - I'm ready to make an offer\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 45000 - I've had an offer accepted\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 40000 - I'm viewing properties\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 70000 - I'm just researching\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - Yes - 30000 - I'm ready to make an offer\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"Home Mover Mortgage Calculator TC_HMM_001 to TC_HMM_008 - I want to buy a home - No - 25000 - I've had an offer accepted\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_001 , Verifying the homepage title\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_002, Verifying all the links from home page are working and not broken, also Printing and counting the links\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_003, Verifying all the headings from main menu\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_004, Verifying all the sub headings from main menu\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_005, Verifying all the headers are visible\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_006, Verifying all the progressive navigations texts are visible\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_007, Verifying all the quick links working and not broken also printing and counting\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_008, Verifying Our Products heading and all the products name\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_HP_009, Verifying main home page logo is exists and visible\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_LP_001 , Validate user can not log in without providing user id and password\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_LP_002 , Validate user can not log in without providing password\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_LP_003, Validate user can not log in without providing user id\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_LP_004 , Validate user can see four options when clicking on forgotten password link\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_RP_001 , Validate the valid account types require for the registration\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video.",
+        "The browser window was resized during the \"TC_RP_002 , Validate user can not register with an incorrect account\" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video."
+      ]
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@tc_rp_002"
+      },
+      {
+        "line": 0,
+        "name": "@validate"
+      },
+      {
+        "line": 0,
+        "name": "@user"
+      },
+      {
+        "line": 0,
+        "name": "@register"
+      },
+      {
+        "line": 0,
+        "name": "@incorrect"
+      },
+      {
+        "line": 0,
+        "name": "@account"
+      },
+      {
+        "line": 0,
+        "name": "@tc_rp_001"
+      },
+      {
+        "line": 0,
+        "name": "@valid"
+      },
+      {
+        "line": 0,
+        "name": "@types"
+      },
+      {
+        "line": 0,
+        "name": "@require"
+      },
+      {
+        "line": 0,
+        "name": "@for"
+      },
+      {
+        "line": 0,
+        "name": "@registration"
+      },
+      {
+        "line": 0,
+        "name": "@registrer"
+      },
+      {
+        "line": 0,
+        "name": "@page"
+      },
+      {
+        "line": 0,
+        "name": "@tests"
+      }
+    ],
+    "uri": "C:\\Users\\janih\\OneDrive\\Desktop\\LLOYDS Project\\LLOYDS Interview Project\\testScript\\testRunnerRegisterPage.js:1"
+  }
+]

@@ -98,7 +98,7 @@ class homePage {
     }
   }
 
-  async verifyingAllSpanHeadersAreVisible() {
+  async verifyingAllHeadersAreVisible() {
     await t
       .maximizeWindow()
       .expect(this.personalHeaderSpan.visible).eql(true)
@@ -139,31 +139,38 @@ class homePage {
 
         return links;
     }
-
+ 
     async checkLinksNotBroken(links) {
-        await t.maximizeWindow();
+      await t.maximizeWindow();
 
-        for (const link of links) {
-            let absoluteLink = link;
+      for (const link of links) {
+          if (!link || typeof link !== 'string') {
+              console.log(`Skipping invalid link: ${link}`);
+              continue;
+          }
 
-            // Ensure the link is absolute
-            if (!absoluteLink.startsWith('https')) {
-                absoluteLink = new URL(absoluteLink, 'https://www.lloydsbank.com').href; 
-            }
+          let absoluteLink = link;
 
-            try {
-                const response = await axios.get(absoluteLink);
-                await t.expect(response.status).eql(200, `Link is broken: ${absoluteLink}`); // asserting response code
-            } catch (error) {
-                // Log the error details for debugging
-                console.log(`Error for link: ${absoluteLink}`, error);
+          // Skip javascript: links
+          if (absoluteLink.startsWith('javascript:')) {
+              console.log(`Skipping unsupported link: ${absoluteLink}`);
+              continue;
+          }
 
-                // If an error occurs, fail the test with a detailed message
-                await t.expect(error).notOk(`Link is broken: ${absoluteLink} - Error: ${error.message || error}`);
-            }
-        }
-    }
-  
+          // Ensure the link is absolute
+          if (!absoluteLink.startsWith('https')) {
+              absoluteLink = new URL(absoluteLink, 'https://www.lloydsbank.com').href;
+          }
+
+          const response = await axios.get(absoluteLink);
+          if (response.status !== 200) {
+              console.log(`Link is broken: ${absoluteLink} - Status: ${response.status}`);
+              // Fail the test if the link is broken
+              await t.expect(response.status).eql(200, `Link is broken: ${absoluteLink} - Status: ${response.status}`);
+          }
+      }
+  }
+    
     async verifyingAllProducts() {
       await t
         .maximizeWindow()
@@ -188,9 +195,6 @@ class homePage {
         .expect(allProducts[7]).eql("Home Insurance");
       
   }
-  
-
-
            
   }
 export default new homePage();

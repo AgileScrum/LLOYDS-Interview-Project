@@ -15,8 +15,7 @@ class logOnPage {
         this.RB3LogOnHelpOptions = Selector('label').withText('Change both');
         this.RB4LogOnHelpOptions = Selector('label').withText('Find out your User ID');
         this.forgottenYourLogOnLink = Selector('a[id="frmLogin:lkFrgtLogonLinkDMC"]');
-
-      
+        this.registerLink = Selector('a[title="for internet banking"] span[class="btn-text"]');      
     }
 
      async loginWithoutAnyCredentials() {
@@ -55,20 +54,17 @@ class logOnPage {
     }
     
     async VerifyingLogOnHelpOptions() {
-        // handler for native dialogs
         await t.setNativeDialogHandler(() => true);
         await t.maximizeWindow()
         .click(this.logOnLink)
         .click(this.logOnLinkPersonal)
         .click(this.forgottenYourLogOnLink)
         .click(this.forgottenYourLogOnLink)
-        .expect(this.RB1LogOnHelpOptions.visible).eql(false)
+        .expect(this.RB1LogOnHelpOptions.visible).eql(true)
         .expect(this.RB2LogOnHelpOptions.visible).eql(true)
         .expect(this.RB3LogOnHelpOptions.visible).eql(true)
         .expect(this.RB4LogOnHelpOptions.visible).eql(true)
     }
-
-
 
 }
 export default new logOnPage();
